@@ -18,3 +18,5 @@ software is integrated for data acquisition, processing and displaying. Finally,
 for the wireless network process, the wireless network module is used for data
 transmitting and receiving while the website is used to display the obtained
 data.
+
+Worked with @akash jammula
